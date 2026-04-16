@@ -17,13 +17,13 @@ I'm a software developer dedicated to creating meaningful projects and collabora
 ## 📌 Featured Projects
 
 ### Project 1
-Description of your most impressive project with a brief overview of what it does and the technologies used.
+codesandbox -> a collaborative IDE where multiple people can write code at a same time. 
 
 ### Project 2
-Description of another key project showcasing your skills and impact.
+PrepExpert -> a ai powered mock interview platform to help people for their upcoming interviews. 
 
 ### Project 3
-Description of a project that demonstrates your problem-solving abilities.
+Deadline Desk -> a task manager application where office employees can track their projects.
 
 ## 📊 GitHub Stats
 
@@ -39,10 +39,10 @@ Description of a project that demonstrates your problem-solving abilities.
 
 Feel free to reach out if you'd like to collaborate or discuss tech!
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin-profile]
-- **Twitter**: [@yourhandle]
-- **Portfolio**: [your-website.com]
+- **Email**: [sahanabyendu1827@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/nabyendu-saha-b3b257229/]
+- **Twitter**: [Not yet ]
+
 
 ## ⭐ Support My Work
 
@@ -50,4 +50,3 @@ If you find my projects helpful, consider starring them or contributing! Every s
 
 ---
 
-*Last updated: 2026-04-16*
