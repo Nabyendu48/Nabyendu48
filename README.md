@@ -1,4 +1,4 @@
-# Hi there, I'm Nabyendu48 👋
+# Hi there, I'm Nabyendu 👋
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to the open-source community.
 
