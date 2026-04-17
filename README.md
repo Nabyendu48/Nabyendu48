@@ -17,13 +17,13 @@ I'm a software developer dedicated to creating meaningful projects and collabora
 ## 📌 Featured Projects
 
 ### Project 1
-codesandbox -> a collaborative IDE where multiple people can write code at a same time. 
+codesandbox -> a collaborative IDE where multiple people can write and edit code at a same time. 
 
 ### Project 2
-PrepExpert -> a ai powered mock interview platform to help people for their upcoming interviews. 
+PrepExpert -> an ai powered mock interview platform to help people for their upcoming interviews. 
 
 ### Project 3
-Deadline Desk -> a task manager application where office employees can track their projects.
+Deadline Desk -> a task manager application where any user  can track their projects.
 
 ## 📊 GitHub Stats
 
